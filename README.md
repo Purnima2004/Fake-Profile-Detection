@@ -1,4 +1,4 @@
-# About Me:
-My name is Purnima Sahoo, a passionate ML engineer and DL beginner,committed to continuous personal and professional growth. With a background in C++ and python, I bring a dynamic approach to challenges, always eager to contribute to collaborative efforts. I am particularly enthusiastic about machine learning and web development, where I am actively contributing as a machine learning engineer. Currently a beginner in deep learning, I am on a journey to explore the depths of this fascinating field, driven by a strong desire to acquire new skills and make meaningful contributions. My goal is to excel in every endeavor I undertake, leveraging my passion for learning to stay at the forefront of technological advancements.
+# Project description:
+Support Vector Machines (SVM) has been employed in this project to automatically detect and flag fake social media profiles. Through the examination of several data sets, such as activity patterns and profile details, the system extracts relevant features to differentiate between real and fraudulent profiles. Enhancing online security, lowering the danger of fraudulent activity, and promoting a more trustworthy social media community are the objectives. Accuracy, user-friendly integration, and ongoing progress based on user feedback are the main goals of the project.
 
 
